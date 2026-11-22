@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Gaming, Cryptography,
 - 🌱 I’m currently Focused on improving my Python skills to tackle AI and gaming projects.
 - 💞️ I’m looking to collaborate on AI and Gaming projects
-- 📫 How to reach me ajuwonfemi1@gmail.com
+- 📫 How to reach me ajuwonfemi1234@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building fun games and exploring AI algorithms!
 
